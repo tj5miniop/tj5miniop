@@ -5,8 +5,8 @@
 
 ### What I'm currently working on
 
-- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/ublue-tj5miniop) - My Custom, Deployable Fedora Kinoite image created using Universal Blue
+- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/aurora-tj5miniop) - My Custom, Deployable Fedora Kinoite image created using Universal Blue
   
 ### My latest projects
 
-- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/ublue-tj5miniop) - My Custom, Deployable Fedora Kinoite image created using Universal Blue
+- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/aurora-tj5miniop) - My Custom, Deployable Fedora Kinoite image created using Universal Blue
