@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
+
 
 ### Socials
 
