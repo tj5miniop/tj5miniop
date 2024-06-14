@@ -5,8 +5,8 @@
 
 ### What I'm currently working on
 
-- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/project-vapor) - Another Custom image, this time based on Fedora Silverblue - more info on the repo!
-- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/linux-toolbox) - A selection of scripts I use, compatible with most linux distros
+- [Project Vapor](https://github.com/tj5miniop/project-vapor) - Another Custom image, this time based on Fedora Silverblue - more info on the repo!
+- [Linux Toolbox](https://github.com/tj5miniop/linux-toolbox) - A selection of scripts I use, compatible with most linux distros
 ### My latest projects
 
-- [tj5miniop/ublue-tj5miniop](https://github.com/tj5miniop/aurora-tj5miniop) - My Custom, Deployable Fedora Kinoite image created using Universal Blue (currently paused)
+- [KDE plasma images made using Universal Blue](https://github.com/tj5miniop/seabreeze-ublue-images) - My Custom, Deployable Fedora Kinoite image created using Universal Blue (currently paused)
