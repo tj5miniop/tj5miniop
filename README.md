@@ -6,7 +6,7 @@
 ### What I'm currently working on
 
 - [Project Vapor](https://github.com/tj5miniop/project-vapor) - Another Custom image, this time based on Fedora Silverblue - more info on the repo!
-- [Linux Toolbox](https://github.com/tj5miniop/linux-toolbox) - A selection of scripts I use, compatible with most linux distros
+- [(Soon to be) Multi-distro installer](https://github.com/tj5miniop/linux-installer) - A way to install multiple distros from a single live ISO, based on Arch (btw)
 ### My latest projects
 
 - [KDE plasma images made using Universal Blue](https://github.com/tj5miniop/seabreeze-ublue-images) - My Custom, Deployable Fedora Kinoite image created using Universal Blue (currently paused)
