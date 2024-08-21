@@ -5,7 +5,7 @@
 
 ### What I'm currently working on
 
-- [Project Vapor](https://github.com/tj5miniop/project-vapor) - Another Custom image, this time based on Fedora Silverblue - more info on the repo!
+- [Windows Docker Images](https://github.com/tj5miniop/windows-docker) - A fork of Dockurs Windows images repository, complete with an easy to use one-click install and configurable options
 - [(Soon to be) Multi-distro installer](https://github.com/tj5miniop/linux-installer) - A way to install multiple distros from a single live ISO, based on Arch (btw)
 ### My latest projects
 
