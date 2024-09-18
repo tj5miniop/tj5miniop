@@ -5,8 +5,12 @@
 
 ### What I'm currently working on
 
-- [Windows Docker Images](https://github.com/tj5miniop/windows-docker) - A fork of Dockurs Windows images repository, complete with an easy to use one-click install and configurable options
-- [(Soon to be) Multi-distro installer](https://github.com/tj5miniop/linux-installer) - A way to install multiple distros from a single live ISO, based on Arch (btw)
-### My latest projects
+- [Windows Docker Images](https://github.com/tj5miniop/windows-docker) - A fork of Dockurs Windows container repository, complete with an easy to use one-click install and configurable options
+### upcoming projects  
 
-- [KDE plasma images made using Universal Blue](https://github.com/tj5miniop/seabreeze-ublue-images) - My Custom, Deployable Fedora Kinoite image created using Universal Blue (currently paused)
+- immutable distrobox os?
+-  steamos-like archlinux config?
+-  improved labwc dotfiles?
+
+-  more to come......
+ 
