@@ -5,12 +5,11 @@
 
 ### What I'm currently working on
 
-- [PKGBUILDS](https://github.com/tj5miniop/PKGBUILDS) - PKGBUILDS for common packages I use on my system, also includes certain packages from steamOS 3.
+- [Hyperion Desktop ](https://github.com/tj5miniop/hyperion) - My current Linux Desktop, built on top of Bazzite and the latest from FEDORA and GNOME. Why Hyperion? It just sounds cool 😆
 ### upcoming projects  
 
 - immutable distrobox os?
 -  steamos-like archlinux config?
--  improved labwc dotfiles?
 
 -  more to come......
  
