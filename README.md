@@ -8,7 +8,7 @@
 
 ### What I'm currently working on
 
-- [Hyperion Desktop ](https://github.com/tj5miniop/hyperion) - My current Linux Desktop, built on top of Bazzite and the latest from FEDORA and GNOME. Why Hyperion? It just sounds cool 😆
+- [Hyperion ](https://github.com/tj5miniop/hyperion) - My current Linux Desktop, built on top of Arch Linux and the latest from cinnamon.
 ### upcoming projects  
 
 - immutable distrobox os?
