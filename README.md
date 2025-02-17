@@ -8,11 +8,12 @@
 
 ### What I'm currently working on
 
-- [Hyperion ](https://github.com/tj5miniop/hyperion) - My current Linux Desktop, built on top of Arch Linux and the latest from cinnamon.
+- [CachyBlue ](https://github.com/tj5miniop/cachyblue) - (Hopefully) my Linux Desktop, built on top of Fedora Silverblue and the latest patches taken directly from CachyOS.
 ### upcoming projects  
 
-- immutable distrobox os?
--  steamos-like archlinux config?
+- immutable distrobox os? ✅
+-  Cachy OS gaming-centered Container image?
+-  OBS in a container?
 
 -  more to come......
  
