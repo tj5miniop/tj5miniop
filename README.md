@@ -8,12 +8,13 @@
 
 ### What I'm currently working on
 
-- [CachyBlue ](https://github.com/tj5miniop/cachyblue) - (Hopefully) my Linux Desktop, built on top of Fedora Silverblue and the latest patches taken directly from CachyOS.
+- [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - (Hopefully) my customized linux desktop, built on top of Aurora from Universal Blue and the latest patches taken directly from CachyOS, along with some extra optimisations and quality of life features.
+
+- [CachyOS (kinda) in a container](https://github.com/tj5miniop/cachy-container-image) - Cachy OS based variant of the Bazzite Arch container, allowing the best container gaming experience, courtesy of distrobox. Will include many tools
 ### upcoming projects  
 
-- immutable distrobox os? ✅
--  Cachy OS gaming-centered Container image?
 -  OBS in a container?
-
+-  Steam Proton Patcher?
+-  SteamOS-like linux desktop, with an NVIDIA GPU optimised focus?
 -  more to come......
  
