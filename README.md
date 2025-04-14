@@ -8,8 +8,8 @@
 
 ### What I'm currently working on
 
-- [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - (Hopefully) my customized linux desktop, built on top of Aurora from Universal Blue and the latest patches taken directly from CachyOS, along with some extra optimisations and quality of life features.
-
+- [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - Customized base (but daily-drivable) images of the Universal Blue project. Currently building - Bluefin, Bazzite, Aurora & COSMIC
+- [Hyperion ](https://github.com/tj5miniop/hyperion) - A ressurected project, this time using a Bazzite (Fedora) base, with added optimisations & a change in desktop environment, from KDE to COSMIC.  
 - [CachyOS (kinda) in a container](https://github.com/tj5miniop/cachy-container-image) - Cachy OS based variant of the Bazzite Arch container, allowing the best container gaming experience, courtesy of distrobox. Will include many tools
 ### upcoming projects  
 
