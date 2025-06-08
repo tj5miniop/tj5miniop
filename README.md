@@ -8,8 +8,8 @@
 
 ### What I'm currently working on
 
-- [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - Customized base (but daily-drivable) images of the Universal Blue project. Currently building - Bluefin, Bazzite & Aurora.
-- [Hyperion ](https://github.com/tj5miniop/hyperion) - A ressurected project, built using the same techniques as Ublue-tj5minop, but setup from scratch. Hyperion uses a CachyOS-like kernel (https://copr.fedorainfracloud.org/coprs/whitehara/kernel-cachyos-preempt/) and official patches, along with Steam and the Brave browser. Based on Fedora Kinoite
+- [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - Customized images of the latest & greatest Universal Blue projects, Bluefin, Bazzite & Aurora. All have had minor tweaks
+- [Hyperion ](https://github.com/tj5miniop/hyperion) - A ressurected project, built using the same techniques as Ublue-tj5minop, but setup from scratch. Hyperion uses the Official Port of the CachyOS kernel and patches, along with Steam and the Brave browser. Based on Fedora Kinoite
 - [CachyOS (kinda) in a container](https://github.com/tj5miniop/cachy-container-image) - Cachy OS based variant of the Bazzite Arch container, allowing the best container gaming experience, courtesy of distrobox. Will include many tools
 ### upcoming projects  
 
