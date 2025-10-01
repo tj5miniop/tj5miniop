@@ -9,12 +9,10 @@
 ### What I'm currently working on
 
 - [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - Customized images of the latest & greatest Universal Blue projects, Bluefin, Bazzite & Aurora. All have had minor tweaks
-- [Hyperion ](https://github.com/tj5miniop/hyperion) - A ressurected project, built using the same techniques as Ublue-tj5minop, but setup from scratch. Hyperion uses the Official Port of the CachyOS kernel and patches, along with Steam and the Brave browser. Based on Fedora Kinoite
-- [CachyOS (kinda) in a container](https://github.com/tj5miniop/cachy-container-image) - Cachy OS based variant of the Bazzite Arch container, allowing the best container gaming experience, courtesy of distrobox. Will include many tools
+- [linux-tkg custom kernel ](https://github.com/tj5miniop/linjx-tkg) - Linux TKG build system for custom kernels. Includes extra patches to enhance the experience for gaming 🎮 and raw performance thanks to CachyOS, PikaOS and other Linux gaming distros.
 ### upcoming projects  
 
--  OBS in a container?
--  Steam Proton Patcher?
--  SteamOS-like linux desktop, with an NVIDIA GPU optimised focus?
+-  Fully-fledged and enhanced OBS experience in distrobox?
+-  SteamOS-like linux desktop with a "stable-ish" release cycle?
 -  more to come......
  
