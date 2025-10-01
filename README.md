@@ -6,7 +6,7 @@
 ### What I'm currently working on
 
 - [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - Customized images of the latest & greatest Universal Blue projects, Bluefin, Bazzite & Aurora. All have had minor tweaks
-- [linux-tkg custom kernel ](https://github.com/tj5miniop/linjx-tkg) - Linux TKG build system for custom kernels. Includes extra patches to enhance the experience for gaming 🎮 and raw performance thanks to CachyOS, PikaOS and other Linux gaming distros.
+- [linux-tkg custom kernel ](https://github.com/tj5miniop/linux-tkg) - Linux TKG build system for custom kernels. Includes extra patches to enhance the experience for gaming 🎮 and raw performance thanks to CachyOS, PikaOS and other Linux gaming distros.
 ### upcoming projects  
 
 -  Fully-fledged and enhanced OBS experience in distrobox?
