@@ -5,7 +5,7 @@
 
 ### What I'm currently working on
 
-- [Ublue-tj5miniop ](https://github.com/tj5miniop/ublue-rolling-images) - Customized images of the latest & greatest Universal Blue projects, Bluefin, Bazzite & Aurora. All have had minor tweaks
+- [COSMIC](https://github.com/tj5miniop/cosmic) - a WIP atomic desktop based on the COSMIC desktop environment. 
 - [linux-tkg custom kernel ](https://github.com/tj5miniop/linux-tkg) - Linux TKG build system for custom kernels. Includes extra patches to enhance the experience for gaming 🎮 and raw performance thanks to CachyOS, PikaOS and other Linux gaming distros.
 ### upcoming projects  
 
