@@ -5,7 +5,7 @@
 
 ### What I'm currently working on
 
-- [COSMIC](https://github.com/tj5miniop/cosmic) - a WIP atomic desktop based on the COSMIC desktop environment. 
+- [tj5os-kde](https://github.com/tj5miniop/tj5os-kde) - a WIP atomic desktop based on Bazzite with extra addons and apps. 
 - [linux-tkg custom kernel ](https://github.com/tj5miniop/linux-tkg) - Linux TKG build system for custom kernels. Includes extra patches to enhance the experience for gaming 🎮 and raw performance thanks to CachyOS, PikaOS and other Linux gaming distros.
 ### upcoming projects  
 
